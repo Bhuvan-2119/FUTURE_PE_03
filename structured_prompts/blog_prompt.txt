@@ -1,0 +1,50 @@
+Act as a professional SEO blog writer and conversion-focused copywriter.
+
+Business: AI-Based Construction Safety System
+Location: [City]
+Target Audience: construction companies, site managers, safety officers
+Primary Goal: generate leads and build authority
+
+Write a detailed, SEO-optimized blog (1200–1500 words):
+
+Topic: AI-Based Construction Safety Systems – How Smart Monitoring Prevents Accidents
+
+Instructions:
+
+1. Start with an engaging introduction:
+   - Highlight real construction safety problems
+   - Hook the reader emotionally or logically
+
+2. Use proper SEO structure:
+   - H1, H2, H3 headings
+   - Short paragraphs
+   - Bullet points where needed
+
+3. Cover in detail:
+   - What is AI-based construction safety
+   - How PPE detection works
+   - Worker tracking and hazard alerts
+   - Benefits (reduce accidents, cost savings, compliance)
+   - Real-world examples (practical scenarios)
+
+4. Add a LOCAL SEO section:
+   - Example: Construction Safety Solutions in [City]
+   - Include local keywords naturally
+
+5. Add FAQ section:
+   - 3–5 relevant questions
+
+6. Add internal linking:
+   - Refer to supporting blogs naturally
+
+7. End with strong CTA:
+   - Example: “Book a demo”, “Contact us”, “Improve your site safety today”
+
+Tone:
+- Professional but easy to understand
+- Not too technical
+- Human-friendly
+
+Important:
+- Focus on value
+- Make it feel like real website content
