@@ -182,8 +182,10 @@ Designs:
 ---
 
 # 🧠 Content Cluster Example  
+```
 Pillar Blog:
 AI-Based Construction Safety Systems
+
    ↓
 PPE Detection Using AI
 Construction Safety Risks
@@ -191,6 +193,7 @@ AI vs Manual Monitoring
 Safety Solutions in Bangalore
 Safety Compliance with AI
 
+```
 ---
 
 # ✨ Key Features  
