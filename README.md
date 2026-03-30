@@ -187,6 +187,7 @@ Pillar Blog:
 AI-Based Construction Safety Systems
 
    ↓
+
 PPE Detection Using AI
 Construction Safety Risks
 AI vs Manual Monitoring
@@ -212,10 +213,10 @@ Safety Compliance with AI
 
 The system generates:
 
-- 📌 1 Pillar Blog (authority content)  
-- 📌 3–5 Supporting Blogs (targeted topics)  
-- 📌 Keyword + Intent Analysis  
-- 📌 Content Cluster Structure  
+-  1 Pillar Blog (authority content)  
+-  3–5 Supporting Blogs (targeted topics)  
+-  Keyword + Intent Analysis  
+-  Content Cluster Structure  
 
 ---
 
