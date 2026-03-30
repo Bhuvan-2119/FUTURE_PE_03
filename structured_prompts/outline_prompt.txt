@@ -1,0 +1,34 @@
+Act as an expert SEO content strategist from a top digital marketing agency.
+
+Business: AI-Based Construction Safety System
+Location: [City]
+Target Keyword: [Insert Primary Keyword]
+
+Create a highly structured SEO blog outline for the following topic:
+
+Topic: AI-Based Construction Safety Systems – How Smart Monitoring Prevents Accidents
+
+Your outline must include:
+
+1. H1 (SEO-optimized, click-worthy title with keyword)
+2. H2 sections covering:
+   - Problem (construction safety challenges)
+   - Solution (AI-based monitoring)
+   - Features (PPE detection, tracking, alerts)
+   - Benefits (cost, safety, compliance)
+   - Local relevance (city-based section)
+3. H3 sub-sections for deeper explanation
+4. FAQ section (based on Google “People Also Ask” style)
+5. Internal linking suggestions:
+   - Mention where to link supporting blogs
+6. Suggested CTA section (lead-focused)
+
+Also include:
+- Target search intent
+- Target audience
+- Recommended word count
+
+Important:
+- Structure should be clean and scannable
+- Focus on ranking + readability
+- Think like both Google and a human reader
