@@ -1,0 +1,30 @@
+Act as a senior SEO strategist working for a B2B SaaS company.
+
+Business Type: AI-Based Construction Safety System (includes PPE detection, worker tracking, hazard alerts)
+Target Audience: construction companies, contractors, site managers, safety officers
+Primary Goal: generate leads and business inquiries
+Location Focus: [City]
+
+Your task is to perform keyword research and search intent analysis.
+
+Generate:
+
+1. Primary Keyword (high commercial value)
+2. 10 Secondary Keywords (relevant and high search potential)
+3. 10 Long-Tail Keywords (specific, problem-focused queries)
+4. Local SEO Keywords (include city name and “near me” variations)
+
+For EACH keyword, provide:
+- Search Intent (Informational / Commercial / Transactional / Navigational)
+- Why the user is searching this (user psychology)
+- How it connects to business conversion (lead potential)
+
+Also include:
+- 3 keyword clusters (group related keywords together)
+- Suggested pillar keyword
+
+Important Instructions:
+- Focus on keywords that can bring real clients, not just traffic
+- Avoid generic keywords
+- Include industry-specific terms (construction safety, PPE, AI monitoring)
+- Make it suitable for Google ranking in 2026
