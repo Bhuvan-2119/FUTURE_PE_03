@@ -1,0 +1,36 @@
+Act as an SEO strategist designing a content cluster for a business website.
+
+Business: AI-Based Construction Safety System
+Main Topic: AI-Based Construction Safety Systems
+
+Your task is to create a complete SEO content cluster.
+
+Generate:
+
+1. 1 Pillar Blog Topic (main keyword-focused)
+
+2. 5 Supporting Blog Topics covering:
+   - Educational content (what/how)
+   - Problem-based content
+   - Comparison content
+   - Local SEO content
+   - Decision-making content
+
+For EACH supporting blog provide:
+- Blog Title
+- Target Keyword
+- Search Intent
+- Short description (what the blog will cover)
+- How it supports the pillar blog
+
+3. Internal Linking Strategy:
+- How pillar blog links to supporting blogs
+- How supporting blogs link back
+
+4. Keyword Mapping:
+- Assign keywords to each blog to avoid overlap
+
+Important:
+- Topics should feel like real Google searches
+- Focus on ranking + lead generation
+- Include at least one LOCAL SEO blog (city-based)
