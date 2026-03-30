@@ -1,0 +1,42 @@
+Pillar Blog:
+AI-Based Construction Safety Systems – How Smart Monitoring Prevents Accidents
+
+Supporting Blogs:
+
+1. What is PPE Detection Using AI?
+   - Keyword: PPE detection using AI
+   - Intent: Informational
+   - Description: Explains how AI identifies safety gear like helmets, gloves, vests
+   - Supports: Educates users before they consider buying
+
+2. Top Construction Site Safety Risks and How to Prevent Them
+   - Keyword: construction safety risks
+   - Intent: Informational
+   - Description: Highlights common dangers and prevention methods
+   - Supports: Creates awareness of need for safety systems
+
+3. AI vs Manual Safety Monitoring – Which is Better?
+   - Keyword: AI vs manual safety monitoring
+   - Intent: Commercial
+   - Description: Comparison blog helping decision-making
+   - Supports: Pushes users toward AI solutions
+
+4. Construction Safety Solutions in Bangalore
+   - Keyword: construction safety Bangalore
+   - Intent: Transactional
+   - Description: Local SEO blog targeting businesses in Bangalore
+   - Supports: Generates local leads
+
+5. How AI Helps Ensure Safety Compliance on Construction Sites
+   - Keyword: construction safety compliance AI
+   - Intent: Informational/Commercial
+   - Description: Explains compliance and regulations
+   - Supports: Builds trust and authority
+
+Internal Linking Strategy:
+- All supporting blogs link to pillar blog
+- Pillar blog links to all supporting blogs
+- Comparison + local blogs drive conversions
+
+Keyword Mapping:
+Each blog targets unique keywords to avoid overlap and improve SEO ranking.
